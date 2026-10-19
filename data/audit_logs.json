@@ -1,0 +1,853 @@
+[
+  {
+    "id": "log_1792376407239_ezptf",
+    "timestamp": "2026-10-19T02:20:07.239Z",
+    "category": "file",
+    "action": "FILE_UPLOAD",
+    "description": "Berkas FILE_UPLOAD: RKPD MURNI TAHUN 2026.pdf",
+    "userId": "user_admin",
+    "userName": "Administrator Sistem",
+    "userRole": "admin",
+    "status": "success",
+    "metadata": {
+      "fileName": "RKPD MURNI TAHUN 2026.pdf"
+    },
+    "serverReceivedAt": "2026-10-19T02:20:06.566Z"
+  },
+  {
+    "id": "log_1792376382991_an7sd",
+    "timestamp": "2026-10-19T02:19:42.991Z",
+    "category": "file",
+    "action": "FILE_DELETE",
+    "description": "Berkas FILE_DELETE: 39.rekon Kecamatan Pematang Sawa.pdf",
+    "userId": "user_admin",
+    "userName": "Administrator Sistem",
+    "userRole": "admin",
+    "status": "warning",
+    "metadata": {
+      "fileName": "39.rekon Kecamatan Pematang Sawa.pdf"
+    },
+    "serverReceivedAt": "2026-10-19T02:19:42.314Z"
+  },
+  {
+    "id": "log_1792376379375_oy20s",
+    "timestamp": "2026-10-19T02:19:39.375Z",
+    "category": "file",
+    "action": "FILE_UPLOAD",
+    "description": "Berkas FILE_UPLOAD: 39.rekon Kecamatan Pematang Sawa.pdf",
+    "userId": "user_admin",
+    "userName": "Administrator Sistem",
+    "userRole": "admin",
+    "status": "success",
+    "metadata": {
+      "fileName": "39.rekon Kecamatan Pematang Sawa.pdf"
+    },
+    "serverReceivedAt": "2026-10-19T02:19:38.699Z"
+  },
+  {
+    "id": "log_1792376355139_0zs35",
+    "timestamp": "2026-10-19T02:19:15.139Z",
+    "category": "file",
+    "action": "FILE_UPLOAD",
+    "description": "Berkas FILE_UPLOAD: RKPD MURNI TAHUN 2026.pdf",
+    "userId": "user_admin",
+    "userName": "Administrator Sistem",
+    "userRole": "admin",
+    "status": "success",
+    "metadata": {
+      "fileName": "RKPD MURNI TAHUN 2026.pdf"
+    },
+    "serverReceivedAt": "2026-10-19T02:19:14.546Z"
+  },
+  {
+    "id": "log_1792376325006_8kajt",
+    "timestamp": "2026-10-19T02:18:45.006Z",
+    "category": "file",
+    "action": "FILE_DELETE",
+    "description": "Berkas FILE_DELETE: media_1792039481910_b5672b48-removebg-preview(1).png",
+    "userId": "user_admin",
+    "userName": "Administrator Sistem",
+    "userRole": "admin",
+    "status": "warning",
+    "metadata": {
+      "fileName": "media_1792039481910_b5672b48-removebg-preview(1).png"
+    },
+    "serverReceivedAt": "2026-10-19T02:18:44.333Z"
+  },
+  {
+    "id": "log_1792376322692_zhjsl",
+    "timestamp": "2026-10-19T02:18:42.692Z",
+    "category": "file",
+    "action": "FILE_UPLOAD",
+    "description": "Berkas FILE_UPLOAD: media_1792039481910_b5672b48-removebg-preview(1).png",
+    "userId": "user_admin",
+    "userName": "Administrator Sistem",
+    "userRole": "admin",
+    "status": "success",
+    "metadata": {
+      "fileName": "media_1792039481910_b5672b48-removebg-preview(1).png"
+    },
+    "serverReceivedAt": "2026-10-19T02:18:42.019Z"
+  },
+  {
+    "id": "log_1792376313362_e6am1",
+    "timestamp": "2026-10-19T02:18:33.362Z",
+    "category": "file",
+    "action": "FILE_UPLOAD",
+    "description": "Berkas FILE_UPLOAD: RKPD MURNI TAHUN 2026.pdf",
+    "userId": "user_admin",
+    "userName": "Administrator Sistem",
+    "userRole": "admin",
+    "status": "success",
+    "metadata": {
+      "fileName": "RKPD MURNI TAHUN 2026.pdf"
+    },
+    "serverReceivedAt": "2026-10-19T02:18:32.940Z"
+  },
+  {
+    "id": "log_1792376300244_8slnp",
+    "timestamp": "2026-10-19T02:18:20.244Z",
+    "category": "file",
+    "action": "FILE_UPLOAD",
+    "description": "Berkas FILE_UPLOAD: RKPD MURNI TAHUN 2026.pdf",
+    "userId": "user_admin",
+    "userName": "Administrator Sistem",
+    "userRole": "admin",
+    "status": "success",
+    "metadata": {
+      "fileName": "RKPD MURNI TAHUN 2026.pdf"
+    },
+    "serverReceivedAt": "2026-10-19T02:18:19.573Z"
+  },
+  {
+    "id": "log_1792375729998_7qjzg",
+    "timestamp": "2026-10-19T02:08:49.998Z",
+    "category": "file",
+    "action": "FOLDER_CREATE",
+    "description": "Berkas FOLDER_CREATE: RKPD",
+    "userId": "user_admin",
+    "userName": "Administrator Sistem",
+    "userRole": "admin",
+    "status": "success",
+    "metadata": {
+      "fileName": "RKPD"
+    },
+    "serverReceivedAt": "2026-10-19T02:08:49.358Z"
+  },
+  {
+    "id": "log_1792342886852_v0hnp",
+    "timestamp": "2026-10-18T17:01:26.852Z",
+    "category": "auth",
+    "action": "AUTO_LOGOUT_TIMEOUT",
+    "description": "Sesi login pengguna \"Administrator Sistem\" (ADMIN) otomatis keluar (logout) karena tidak ada aktivitas selama 15 menit.",
+    "userId": "user_admin",
+    "userName": "Administrator Sistem",
+    "userRole": "admin",
+    "status": "warning",
+    "serverReceivedAt": "2026-10-18T17:01:28.163Z"
+  },
+  {
+    "id": "log_1792341413024_qqobx",
+    "timestamp": "2026-10-18T16:36:53.024Z",
+    "category": "auth",
+    "action": "LOGIN_SUCCESS",
+    "description": "Pengguna \"Administrator Sistem\" (ADMIN) berhasil login ke sistem pada Mozilla Firefox (Windows PC).",
+    "userId": "user_admin",
+    "userName": "Administrator Sistem",
+    "userRole": "admin",
+    "status": "success",
+    "metadata": {
+      "device": "Mozilla Firefox (Windows PC)",
+      "sessionId": "sess_1792341412923_rz92n8r"
+    },
+    "serverReceivedAt": "2026-10-18T16:36:54.310Z"
+  },
+  {
+    "id": "log_1792334323720_gvc8a",
+    "timestamp": "2026-10-18T14:38:43.720Z",
+    "category": "auth",
+    "action": "LOGIN_SUCCESS",
+    "description": "Pengguna \"elma\" (USER) berhasil login ke sistem pada Mozilla Firefox (Windows PC).",
+    "userId": "user_1792265118743",
+    "userName": "elma",
+    "userRole": "user",
+    "status": "success",
+    "metadata": {
+      "device": "Mozilla Firefox (Windows PC)",
+      "sessionId": "sess_1792334323600_5hk7pyf"
+    },
+    "serverReceivedAt": "2026-10-18T14:38:44.332Z"
+  },
+  {
+    "id": "log_1792334291578_bd5du",
+    "timestamp": "2026-10-18T14:38:11.578Z",
+    "category": "auth",
+    "action": "LOGIN_FAILED",
+    "description": "Percobaan login gagal: Identitas akun \"@elma\" tidak ditemukan dalam sistem.",
+    "userName": "@elma",
+    "userRole": "tamu",
+    "status": "danger",
+    "metadata": {
+      "identifier": "@elma"
+    },
+    "serverReceivedAt": "2026-10-18T14:38:12.208Z"
+  },
+  {
+    "id": "log_1792305153553_24pms",
+    "timestamp": "2026-10-18T06:32:33.554Z",
+    "category": "auth",
+    "action": "AUTO_LOGOUT_TIMEOUT",
+    "description": "Sesi login pengguna \"uje\" (USER) otomatis keluar (logout) karena tidak ada aktivitas selama 15 menit.",
+    "userId": "user_1792265151432",
+    "userName": "uje",
+    "userRole": "user",
+    "status": "warning",
+    "serverReceivedAt": "2026-10-18T06:32:34.234Z"
+  },
+  {
+    "id": "log_1792305153696_lo0ev",
+    "timestamp": "2026-10-18T06:32:33.696Z",
+    "category": "auth",
+    "action": "AUTO_LOGOUT_TIMEOUT",
+    "description": "Sesi login pengguna \"uje\" (USER) otomatis keluar (logout) karena tidak ada aktivitas selama 15 menit.",
+    "userId": "user_1792265151432",
+    "userName": "uje",
+    "userRole": "user",
+    "status": "warning",
+    "serverReceivedAt": "2026-10-18T06:32:34.230Z"
+  },
+  {
+    "id": "log_1792287972801_c60r3",
+    "timestamp": "2026-10-18T01:46:12.801Z",
+    "category": "auth",
+    "action": "LOGIN_SUCCESS",
+    "description": "Pengguna \"uje\" (USER) berhasil login ke sistem pada Google Chrome (Perangkat Android).",
+    "userId": "user_1792265151432",
+    "userName": "uje",
+    "userRole": "user",
+    "status": "success",
+    "metadata": {
+      "device": "Google Chrome (Perangkat Android)",
+      "sessionId": "sess_1792287972708_zc6zqxo"
+    },
+    "serverReceivedAt": "2026-10-18T01:46:12.939Z"
+  },
+  {
+    "id": "log_1792283893490_jkbd3",
+    "timestamp": "2026-10-18T00:38:13.490Z",
+    "category": "auth",
+    "action": "AUTO_LOGOUT_TIMEOUT",
+    "description": "Sesi login pengguna \"Administrator Sistem\" (ADMIN) otomatis keluar (logout) karena tidak ada aktivitas selama 15 menit.",
+    "userId": "user_admin",
+    "userName": "Administrator Sistem",
+    "userRole": "admin",
+    "status": "warning",
+    "serverReceivedAt": "2026-10-18T00:38:13.606Z"
+  },
+  {
+    "id": "log_1792282965537_9jwco",
+    "timestamp": "2026-10-18T00:22:45.537Z",
+    "category": "auth",
+    "action": "LOGIN_SUCCESS",
+    "description": "Pengguna \"Administrator Sistem\" (ADMIN) berhasil login ke sistem pada Mozilla Firefox (Windows PC).",
+    "userId": "user_admin",
+    "userName": "Administrator Sistem",
+    "userRole": "admin",
+    "status": "success",
+    "metadata": {
+      "device": "Mozilla Firefox (Windows PC)",
+      "sessionId": "sess_1792282965437_54f8lyq"
+    },
+    "serverReceivedAt": "2026-10-18T00:22:45.633Z"
+  },
+  {
+    "id": "log_1792282951788_gv3sn",
+    "timestamp": "2026-10-18T00:22:31.788Z",
+    "category": "auth",
+    "action": "LOGOUT",
+    "description": "Pengguna \"uje\" keluar (logout) dari sistem.",
+    "userId": "user_1792265151432",
+    "userName": "uje",
+    "userRole": "user",
+    "status": "success",
+    "serverReceivedAt": "2026-10-18T00:22:31.883Z"
+  },
+  {
+    "id": "log_1792282877128_4xt1x",
+    "timestamp": "2026-10-18T00:21:17.128Z",
+    "category": "auth",
+    "action": "LOGIN_SUCCESS",
+    "description": "Pengguna \"uje\" (USER) berhasil login ke sistem pada Mozilla Firefox (Windows PC).",
+    "userId": "user_1792265151432",
+    "userName": "uje",
+    "userRole": "user",
+    "status": "success",
+    "metadata": {
+      "device": "Mozilla Firefox (Windows PC)",
+      "sessionId": "sess_1792282877027_ov6wx0o"
+    },
+    "serverReceivedAt": "2026-10-18T00:21:17.218Z"
+  },
+  {
+    "id": "log_1792282869301_qgvgo",
+    "timestamp": "2026-10-18T00:21:09.301Z",
+    "category": "auth",
+    "action": "LOGOUT",
+    "description": "Pengguna \"Administrator Sistem\" keluar (logout) dari sistem.",
+    "userId": "user_admin",
+    "userName": "Administrator Sistem",
+    "userRole": "admin",
+    "status": "success",
+    "serverReceivedAt": "2026-10-18T00:21:09.392Z"
+  },
+  {
+    "id": "log_1792282787403_95vin",
+    "timestamp": "2026-10-18T00:19:47.403Z",
+    "category": "auth",
+    "action": "LOGIN_SUCCESS",
+    "description": "Pengguna \"Administrator Sistem\" (ADMIN) berhasil login ke sistem pada Mozilla Firefox (Windows PC).",
+    "userId": "user_admin",
+    "userName": "Administrator Sistem",
+    "userRole": "admin",
+    "status": "success",
+    "metadata": {
+      "device": "Mozilla Firefox (Windows PC)",
+      "sessionId": "sess_1792282787274_hbnd72p"
+    },
+    "serverReceivedAt": "2026-10-18T00:19:47.482Z"
+  },
+  {
+    "id": "log_1792282777220_c5kb6",
+    "timestamp": "2026-10-18T00:19:37.220Z",
+    "category": "auth",
+    "action": "LOGIN_FAILED",
+    "description": "Percobaan login gagal untuk akun \"Administrator Sistem\": Kata sandi salah.",
+    "userId": "user_admin",
+    "userName": "Administrator Sistem",
+    "userRole": "admin",
+    "status": "danger",
+    "metadata": {
+      "username": "admin"
+    },
+    "serverReceivedAt": "2026-10-18T00:19:37.510Z"
+  },
+  {
+    "id": "log_1792266648202_e9rrv",
+    "timestamp": "2026-10-17T19:50:48.202Z",
+    "category": "auth",
+    "action": "AUTO_LOGOUT_TIMEOUT",
+    "description": "Sesi login pengguna \"Administrator Sistem\" (ADMIN) otomatis keluar (logout) karena tidak ada aktivitas selama 15 menit.",
+    "userId": "user_admin",
+    "userName": "Administrator Sistem",
+    "userRole": "admin",
+    "status": "warning",
+    "serverReceivedAt": "2026-10-17T19:50:48.860Z"
+  },
+  {
+    "id": "log_1792265575208_n8wzn",
+    "timestamp": "2026-10-17T19:32:55.208Z",
+    "category": "auth",
+    "action": "LOGIN_SUCCESS",
+    "description": "Pengguna \"Administrator Sistem\" (ADMIN) berhasil login ke sistem pada Mozilla Firefox (Windows PC).",
+    "userId": "user_admin",
+    "userName": "Administrator Sistem",
+    "userRole": "admin",
+    "status": "success",
+    "metadata": {
+      "device": "Mozilla Firefox (Windows PC)",
+      "sessionId": "sess_1792265575129_hik7nn5"
+    },
+    "serverReceivedAt": "2026-10-17T19:32:55.841Z"
+  },
+  {
+    "id": "log_1792265568876_8d6cj",
+    "timestamp": "2026-10-17T19:32:48.876Z",
+    "category": "auth",
+    "action": "LOGOUT",
+    "description": "Pengguna \"Administrator Sistem\" keluar (logout) dari sistem.",
+    "userId": "user_admin",
+    "userName": "Administrator Sistem",
+    "userRole": "admin",
+    "status": "success",
+    "serverReceivedAt": "2026-10-17T19:32:49.510Z"
+  },
+  {
+    "id": "log_1792265564295_y1y0n",
+    "timestamp": "2026-10-17T19:32:44.295Z",
+    "category": "admin",
+    "action": "USER_EDIT",
+    "description": "Memperbarui data akun \"Administrator Sistem\" (Termasuk pembaruan kata sandi).",
+    "userId": "user_admin",
+    "userName": "Administrator Sistem",
+    "userRole": "admin",
+    "status": "success",
+    "serverReceivedAt": "2026-10-17T19:32:44.933Z"
+  },
+  {
+    "id": "log_1792265531028_4gowm",
+    "timestamp": "2026-10-17T19:32:11.028Z",
+    "category": "auth",
+    "action": "LOGIN_SUCCESS",
+    "description": "Pengguna \"Administrator Sistem\" (ADMIN) berhasil login ke sistem pada Mozilla Firefox (Windows PC).",
+    "userId": "user_admin",
+    "userName": "Administrator Sistem",
+    "userRole": "admin",
+    "status": "success",
+    "metadata": {
+      "device": "Mozilla Firefox (Windows PC)",
+      "sessionId": "sess_1792265530890_5w7czmx"
+    },
+    "serverReceivedAt": "2026-10-17T19:32:11.660Z"
+  },
+  {
+    "id": "log_1792265525472_svi69",
+    "timestamp": "2026-10-17T19:32:05.472Z",
+    "category": "auth",
+    "action": "LOGOUT",
+    "description": "Pengguna \"elma\" keluar (logout) dari sistem.",
+    "userId": "user_1792265118743",
+    "userName": "elma",
+    "userRole": "user",
+    "status": "success",
+    "serverReceivedAt": "2026-10-17T19:32:06.108Z"
+  },
+  {
+    "id": "log_1792265518059_3xstr",
+    "timestamp": "2026-10-17T19:31:58.059Z",
+    "category": "auth",
+    "action": "LOGIN_SUCCESS",
+    "description": "Pengguna \"elma\" (USER) berhasil login ke sistem pada Mozilla Firefox (Windows PC).",
+    "userId": "user_1792265118743",
+    "userName": "elma",
+    "userRole": "user",
+    "status": "success",
+    "metadata": {
+      "device": "Mozilla Firefox (Windows PC)",
+      "sessionId": "sess_1792265517983_02xknfi"
+    },
+    "serverReceivedAt": "2026-10-17T19:31:58.688Z"
+  },
+  {
+    "id": "log_1792265511190_xsuho",
+    "timestamp": "2026-10-17T19:31:51.190Z",
+    "category": "auth",
+    "action": "LOGOUT",
+    "description": "Pengguna \"Administrator Sistem\" keluar (logout) dari sistem.",
+    "userId": "user_admin",
+    "userName": "Administrator Sistem",
+    "userRole": "admin",
+    "status": "success",
+    "serverReceivedAt": "2026-10-17T19:31:51.819Z"
+  },
+  {
+    "id": "log_1792265266238_96s8a",
+    "timestamp": "2026-10-17T19:27:46.238Z",
+    "category": "auth",
+    "action": "LOGIN_SUCCESS",
+    "description": "Pengguna \"Administrator Sistem\" (ADMIN) berhasil login ke sistem pada Mozilla Firefox (Windows PC).",
+    "userId": "user_admin",
+    "userName": "Administrator Sistem",
+    "userRole": "admin",
+    "status": "success",
+    "metadata": {
+      "device": "Mozilla Firefox (Windows PC)",
+      "sessionId": "sess_1792265266103_0tlmox7"
+    },
+    "serverReceivedAt": "2026-10-17T19:27:46.866Z"
+  },
+  {
+    "id": "log_1792265261149_r2b1k",
+    "timestamp": "2026-10-17T19:27:41.149Z",
+    "category": "auth",
+    "action": "LOGOUT",
+    "description": "Pengguna \"mj\" keluar (logout) dari sistem.",
+    "userId": "user_1792265216788",
+    "userName": "mj",
+    "userRole": "user",
+    "status": "success",
+    "serverReceivedAt": "2026-10-17T19:27:41.781Z"
+  },
+  {
+    "id": "log_1792265253640_dqaqy",
+    "timestamp": "2026-10-17T19:27:33.640Z",
+    "category": "auth",
+    "action": "AUTO_LOGOUT_CONCURRENT_SESSION",
+    "description": "Sesi akun \"mj\" (USER) otomatis di-logout karena akun telah digunakan untuk masuk pada perangkat lain (Mozilla Firefox (Windows PC)).",
+    "userId": "user_1792265216788",
+    "userName": "mj",
+    "userRole": "user",
+    "status": "warning",
+    "serverReceivedAt": "2026-10-17T19:27:34.269Z"
+  },
+  {
+    "id": "log_1792265252455_25txl",
+    "timestamp": "2026-10-17T19:27:32.455Z",
+    "category": "auth",
+    "action": "LOGIN_SUCCESS",
+    "description": "Pengguna \"mj\" (USER) berhasil login ke sistem pada Mozilla Firefox (Windows PC).",
+    "userId": "user_1792265216788",
+    "userName": "mj",
+    "userRole": "user",
+    "status": "success",
+    "metadata": {
+      "device": "Mozilla Firefox (Windows PC)",
+      "sessionId": "sess_1792265252364_k9int07"
+    },
+    "serverReceivedAt": "2026-10-17T19:27:33.092Z"
+  },
+  {
+    "id": "audit_1792265252993_y7ax",
+    "timestamp": "2026-10-17T19:27:32.993Z",
+    "category": "auth",
+    "action": "CONCURRENT_LOGIN_KICK",
+    "description": "Akun \"mj\" (USER) masuk di perangkat baru \"Mozilla Firefox (Windows PC)\" (IP: 103.126.172.163). Sesi pada perangkat sebelumnya (\"Mozilla Firefox (Windows PC)\" - IP: 103.126.172.163) otomatis di-logout untuk mencegah penggunaan bersamaan di perangkat berbeda.",
+    "userId": "user_1792265216788",
+    "userName": "mj",
+    "userRole": "user",
+    "ipAddress": "103.126.172.163",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
+    "deviceInfo": "Mozilla Firefox (Windows PC)",
+    "status": "warning",
+    "metadata": {
+      "previousSessionId": "sess_1792265230458_15nzpg6",
+      "previousDevice": "Mozilla Firefox (Windows PC)",
+      "previousIp": "103.126.172.163",
+      "newSessionId": "sess_1792265252364_k9int07",
+      "newDevice": "Mozilla Firefox (Windows PC)",
+      "newIp": "103.126.172.163"
+    }
+  },
+  {
+    "id": "log_1792265230709_f373c",
+    "timestamp": "2026-10-17T19:27:10.709Z",
+    "category": "auth",
+    "action": "LOGIN_SUCCESS",
+    "description": "Pengguna \"mj\" (USER) berhasil login ke sistem pada Mozilla Firefox (Windows PC).",
+    "userId": "user_1792265216788",
+    "userName": "mj",
+    "userRole": "user",
+    "status": "success",
+    "metadata": {
+      "device": "Mozilla Firefox (Windows PC)",
+      "sessionId": "sess_1792265230458_15nzpg6"
+    },
+    "serverReceivedAt": "2026-10-17T19:27:11.337Z"
+  },
+  {
+    "id": "log_1792265226697_ie9sg",
+    "timestamp": "2026-10-17T19:27:06.697Z",
+    "category": "auth",
+    "action": "LOGOUT",
+    "description": "Pengguna \"Administrator Sistem\" keluar (logout) dari sistem.",
+    "userId": "user_admin",
+    "userName": "Administrator Sistem",
+    "userRole": "admin",
+    "status": "success",
+    "serverReceivedAt": "2026-10-17T19:27:07.329Z"
+  },
+  {
+    "id": "log_1792265216967_lan3g",
+    "timestamp": "2026-10-17T19:26:56.967Z",
+    "category": "admin",
+    "action": "USER_ADD",
+    "description": "Menambahkan akun pengguna baru \"mj\" dengan role USER (Unit: Perencanaan Makro Pengendalian dan Evaluasi Pembangunan Daerah).",
+    "userId": "user_admin",
+    "userName": "Administrator Sistem",
+    "userRole": "admin",
+    "status": "success",
+    "serverReceivedAt": "2026-10-17T19:26:57.609Z"
+  },
+  {
+    "id": "log_1792265194864_ok093",
+    "timestamp": "2026-10-17T19:26:34.864Z",
+    "category": "admin",
+    "action": "USER_ADD",
+    "description": "Menambahkan akun pengguna baru \"novri\" dengan role USER (Unit: Perencanaan Makro Pengendalian dan Evaluasi Pembangunan Daerah).",
+    "userId": "user_admin",
+    "userName": "Administrator Sistem",
+    "userRole": "admin",
+    "status": "success",
+    "serverReceivedAt": "2026-10-17T19:26:35.502Z"
+  },
+  {
+    "id": "log_1792265174213_div00",
+    "timestamp": "2026-10-17T19:26:14.213Z",
+    "category": "admin",
+    "action": "USER_ADD",
+    "description": "Menambahkan akun pengguna baru \"ook\" dengan role USER (Unit: Perencanaan Makro Pengendalian dan Evaluasi Pembangunan Daerah).",
+    "userId": "user_admin",
+    "userName": "Administrator Sistem",
+    "userRole": "admin",
+    "status": "success",
+    "serverReceivedAt": "2026-10-17T19:26:14.846Z"
+  },
+  {
+    "id": "log_1792265151618_unrz1",
+    "timestamp": "2026-10-17T19:25:51.618Z",
+    "category": "admin",
+    "action": "USER_ADD",
+    "description": "Menambahkan akun pengguna baru \"uje\" dengan role USER (Unit: Perencanaan Makro Pengendalian dan Evaluasi Pembangunan Daerah).",
+    "userId": "user_admin",
+    "userName": "Administrator Sistem",
+    "userRole": "admin",
+    "status": "success",
+    "serverReceivedAt": "2026-10-17T19:25:52.247Z"
+  },
+  {
+    "id": "log_1792265119030_bfudy",
+    "timestamp": "2026-10-17T19:25:19.030Z",
+    "category": "admin",
+    "action": "USER_ADD",
+    "description": "Menambahkan akun pengguna baru \"elma\" dengan role USER (Unit: Perencanaan Makro Pengendalian dan Evaluasi Pembangunan Daerah).",
+    "userId": "user_admin",
+    "userName": "Administrator Sistem",
+    "userRole": "admin",
+    "status": "success",
+    "serverReceivedAt": "2026-10-17T19:25:19.688Z"
+  },
+  {
+    "id": "log_1792264443098_yqkr8",
+    "timestamp": "2026-10-17T19:14:03.098Z",
+    "category": "auth",
+    "action": "LOGOUT",
+    "description": "Pengguna \"Administrator Sistem\" keluar (logout) dari sistem.",
+    "userId": "user_admin",
+    "userName": "Administrator Sistem",
+    "userRole": "admin",
+    "status": "success",
+    "serverReceivedAt": "2026-10-17T19:14:03.727Z"
+  },
+  {
+    "id": "log_1792261985757_nr20a",
+    "timestamp": "2026-10-17T18:33:05.757Z",
+    "category": "auth",
+    "action": "LOGIN_SUCCESS",
+    "description": "Pengguna \"Administrator Sistem\" (ADMIN) berhasil login ke sistem pada Mozilla Firefox (Windows PC).",
+    "userId": "user_admin",
+    "userName": "Administrator Sistem",
+    "userRole": "admin",
+    "status": "success",
+    "metadata": {
+      "device": "Mozilla Firefox (Windows PC)",
+      "sessionId": "sess_1792261985546_rnow1gv"
+    },
+    "serverReceivedAt": "2026-10-17T18:33:06.313Z"
+  },
+  {
+    "id": "log_1792261361459_rsych",
+    "timestamp": "2026-10-17T18:22:41.459Z",
+    "category": "auth",
+    "action": "LOGOUT",
+    "description": "Pengguna \"Administrator Sistem\" keluar (logout) dari sistem.",
+    "userId": "user_admin",
+    "userName": "Administrator Sistem",
+    "userRole": "admin",
+    "status": "success",
+    "serverReceivedAt": "2026-10-17T18:22:42.025Z"
+  },
+  {
+    "id": "log_1792261222147_olrv1",
+    "timestamp": "2026-10-17T18:20:22.147Z",
+    "category": "admin",
+    "action": "USER_DELETE",
+    "description": "Menghapus akun pengguna \"elma\" (USER) dari sistem.",
+    "userId": "user_admin",
+    "userName": "Administrator Sistem",
+    "userRole": "admin",
+    "status": "warning",
+    "serverReceivedAt": "2026-10-17T18:20:22.700Z"
+  },
+  {
+    "id": "log_1792261213981_zemsr",
+    "timestamp": "2026-10-17T18:20:13.981Z",
+    "category": "admin",
+    "action": "USER_ADD",
+    "description": "Menambahkan akun pengguna baru \"elma\" dengan role USER (Unit: Bidang PME (Perencanaan, Pengendalian & Evaluasi)).",
+    "userId": "user_admin",
+    "userName": "Administrator Sistem",
+    "userRole": "admin",
+    "status": "success",
+    "serverReceivedAt": "2026-10-17T18:20:14.542Z"
+  },
+  {
+    "id": "log_1792261182430_z0fsv",
+    "timestamp": "2026-10-17T18:19:42.430Z",
+    "category": "auth",
+    "action": "LOGIN_SUCCESS",
+    "description": "Pengguna \"Administrator Sistem\" (ADMIN) berhasil login ke sistem pada Mozilla Firefox (Windows PC).",
+    "userId": "user_admin",
+    "userName": "Administrator Sistem",
+    "userRole": "admin",
+    "status": "success",
+    "metadata": {
+      "device": "Mozilla Firefox (Windows PC)",
+      "sessionId": "sess_1792261182131_u203m39"
+    },
+    "serverReceivedAt": "2026-10-17T18:19:42.967Z"
+  },
+  {
+    "id": "log_1792261120426_6gcjt",
+    "timestamp": "2026-10-17T18:18:40.426Z",
+    "category": "auth",
+    "action": "LOGOUT",
+    "description": "Pengguna \"Administrator Sistem\" keluar (logout) dari sistem.",
+    "userId": "user_admin",
+    "userName": "Administrator Sistem",
+    "userRole": "admin",
+    "status": "success",
+    "serverReceivedAt": "2026-10-17T18:18:40.992Z"
+  },
+  {
+    "id": "log_1792260893569_bzg7g",
+    "timestamp": "2026-10-17T18:14:53.569Z",
+    "category": "auth",
+    "action": "LOGIN_SUCCESS",
+    "description": "Pengguna \"Administrator Sistem\" (ADMIN) berhasil login ke sistem pada Mozilla Firefox (Windows PC).",
+    "userId": "user_admin",
+    "userName": "Administrator Sistem",
+    "userRole": "admin",
+    "status": "success",
+    "metadata": {
+      "device": "Mozilla Firefox (Windows PC)",
+      "sessionId": "sess_1792260893254_3eyqyza"
+    },
+    "serverReceivedAt": "2026-10-17T18:14:54.114Z"
+  },
+  {
+    "id": "audit_1792260893966_eyh5",
+    "timestamp": "2026-10-17T18:14:53.966Z",
+    "category": "auth",
+    "action": "CONCURRENT_LOGIN_KICK",
+    "description": "Akun \"Administrator Sistem\" (ADMIN) masuk di perangkat baru \"Mozilla Firefox (Windows PC)\" (IP: 103.126.172.163). Sesi pada perangkat sebelumnya (\"Google Chrome (Windows PC)\" - IP: 103.126.172.163) otomatis di-logout untuk mencegah penggunaan bersamaan di perangkat berbeda.",
+    "userId": "user_admin",
+    "userName": "Administrator Sistem",
+    "userRole": "admin",
+    "ipAddress": "103.126.172.163",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
+    "deviceInfo": "Mozilla Firefox (Windows PC)",
+    "status": "warning",
+    "metadata": {
+      "previousSessionId": "sess_1792258574469_jqjh2ed",
+      "previousDevice": "Google Chrome (Windows PC)",
+      "previousIp": "103.126.172.163",
+      "newSessionId": "sess_1792260893254_3eyqyza",
+      "newDevice": "Mozilla Firefox (Windows PC)",
+      "newIp": "103.126.172.163"
+    }
+  },
+  {
+    "id": "log_1792258574649_yhdd5",
+    "timestamp": "2026-10-17T17:36:14.649Z",
+    "category": "auth",
+    "action": "LOGIN_SUCCESS",
+    "description": "Pengguna \"Administrator Sistem\" (ADMIN) berhasil login ke sistem pada Google Chrome (Windows PC).",
+    "userId": "user_admin",
+    "userName": "Administrator Sistem",
+    "userRole": "admin",
+    "status": "success",
+    "metadata": {
+      "device": "Google Chrome (Windows PC)",
+      "sessionId": "sess_1792258574469_jqjh2ed"
+    },
+    "serverReceivedAt": "2026-10-17T17:36:15.584Z"
+  },
+  {
+    "id": "log_1792257443779_esir4",
+    "timestamp": "2026-10-17T17:17:23.779Z",
+    "category": "auth",
+    "action": "LOGOUT",
+    "description": "Pengguna \"Administrator Sistem\" keluar (logout) dari sistem.",
+    "userId": "user_admin",
+    "userName": "Administrator Sistem",
+    "userRole": "admin",
+    "status": "success",
+    "serverReceivedAt": "2026-10-17T17:17:24.700Z"
+  },
+  {
+    "id": "audit_1792257224501_qanr",
+    "timestamp": "2026-10-17T17:13:44.501Z",
+    "category": "auth",
+    "action": "CONCURRENT_LOGIN_KICK",
+    "description": "Akun \"Administrator Sistem\" (ADMIN) masuk di perangkat baru \"Safari (iPhone 15 Pro)\" (IP: 127.0.0.1). Sesi pada perangkat sebelumnya (\"Chrome (Windows PC)\" - IP: 127.0.0.1) otomatis di-logout untuk mencegah penggunaan bersamaan di perangkat berbeda.",
+    "userId": "user_admin",
+    "userName": "Administrator Sistem",
+    "userRole": "admin",
+    "ipAddress": "127.0.0.1",
+    "userAgent": "curl/7.88.1",
+    "deviceInfo": "Safari (iPhone 15 Pro)",
+    "status": "warning",
+    "metadata": {
+      "previousSessionId": "sess_device_1",
+      "previousDevice": "Chrome (Windows PC)",
+      "previousIp": "127.0.0.1",
+      "newSessionId": "sess_device_2",
+      "newDevice": "Safari (iPhone 15 Pro)",
+      "newIp": "127.0.0.1"
+    }
+  },
+  {
+    "id": "log_1792256646158_jcavy",
+    "timestamp": "2026-10-17T17:04:06.158Z",
+    "category": "auth",
+    "action": "LOGIN_SUCCESS",
+    "description": "Pengguna \"Administrator Sistem\" (ADMIN) berhasil login ke sistem.",
+    "userId": "user_admin",
+    "userName": "Administrator Sistem",
+    "userRole": "admin",
+    "status": "success",
+    "serverReceivedAt": "2026-10-17T17:04:07.099Z"
+  },
+  {
+    "id": "log_1792247783811_02fbo",
+    "timestamp": "2026-10-17T14:36:23.811Z",
+    "category": "auth",
+    "action": "LOGIN_SUCCESS",
+    "description": "Pengguna \"Administrator Sistem\" (ADMIN) berhasil login ke sistem.",
+    "userId": "user_admin",
+    "userName": "Administrator Sistem",
+    "userRole": "admin",
+    "status": "success",
+    "serverReceivedAt": "2026-10-17T14:36:24.478Z"
+  },
+  {
+    "id": "log_1792247779548_pc17j",
+    "timestamp": "2026-10-17T14:36:19.548Z",
+    "category": "auth",
+    "action": "LOGIN_FAILED",
+    "description": "Percobaan login gagal untuk akun \"Administrator Sistem\": Kata sandi salah.",
+    "userId": "user_admin",
+    "userName": "Administrator Sistem",
+    "userRole": "admin",
+    "status": "danger",
+    "metadata": {
+      "username": "admin"
+    },
+    "serverReceivedAt": "2026-10-17T14:36:22.037Z"
+  },
+  {
+    "id": "log_1792244027108_xwsei",
+    "timestamp": "2026-10-17T13:33:47.108Z",
+    "category": "auth",
+    "action": "AUTO_LOGOUT_TIMEOUT",
+    "description": "Sesi login pengguna \"Administrator Sistem\" (ADMIN) otomatis keluar (logout) karena tidak ada aktivitas selama 15 menit.",
+    "userId": "user_admin",
+    "userName": "Administrator Sistem",
+    "userRole": "admin",
+    "status": "warning",
+    "serverReceivedAt": "2026-10-17T13:33:49.296Z"
+  },
+  {
+    "id": "log_1792151234946_ooi05",
+    "timestamp": "2026-10-16T11:47:14.946Z",
+    "deviceInfo": "Windows 11/10 (Mozilla Firefox)",
+    "ipAddress": "192.168.1.10",
+    "userId": "user_admin",
+    "userName": "Administrator Sistem",
+    "userRole": "admin",
+    "category": "auth",
+    "action": "LOGIN_SUCCESS",
+    "description": "Pengguna \"Administrator Sistem\" (ADMIN) berhasil login ke sistem.",
+    "status": "success",
+    "serverReceivedAt": "2026-10-16T11:47:14.347Z"
+  }
+]

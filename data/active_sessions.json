@@ -1,0 +1,15 @@
+{
+  "user_admin": {
+    "sessionId": "sess_1792375362943_39w1k1p",
+    "userId": "user_admin",
+    "userName": "Administrator Sistem",
+    "userRole": "admin",
+    "department": "Administrator Sistem",
+    "deviceId": "dev_1792375362943_nlxs4pl",
+    "deviceName": "Mozilla Firefox (Windows PC)",
+    "ipAddress": "103.126.172.163",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0",
+    "loginTime": "2026-10-19T02:19:23.610Z",
+    "lastHeartbeat": 1792376363610
+  }
+}

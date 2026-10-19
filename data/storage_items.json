@@ -1,0 +1,21 @@
+[
+  {
+    "id": "folder_1792375729998_vpobe",
+    "name": "RKPD",
+    "type": "folder",
+    "extension": "",
+    "size": 0,
+    "mimeType": "",
+    "parentId": null,
+    "scope": "bidang",
+    "ownerId": "user_admin",
+    "ownerName": "Administrator Sistem",
+    "ownerEmail": "admin@instansi.go.id",
+    "bidangCategory": "Bidang PME",
+    "dataUrl": null,
+    "starred": false,
+    "description": null,
+    "createdAt": "2026-10-19T02:08:49.998Z",
+    "updatedAt": "2026-10-19T02:08:49.998Z"
+  }
+]

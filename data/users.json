@@ -1,0 +1,74 @@
+[
+  {
+    "id": "user_admin",
+    "name": "Administrator Sistem",
+    "email": "admin@instansi.go.id",
+    "username": "admin",
+    "password": "10desember1995",
+    "role": "admin",
+    "department": "Administrator Sistem",
+    "canManageIKU": false,
+    "canInputAgenda": false,
+    "createdAt": "2026-01-01T08:00:00.000Z"
+  },
+  {
+    "id": "user_1792265118743",
+    "name": "elma",
+    "email": "elma@elma.com",
+    "username": "elma",
+    "password": "elma",
+    "role": "user",
+    "department": "Perencanaan Makro Pengendalian dan Evaluasi Pembangunan Daerah",
+    "canManageIKU": false,
+    "canInputAgenda": false,
+    "createdAt": "2026-10-17T19:25:18.743Z"
+  },
+  {
+    "id": "user_1792265151432",
+    "name": "uje",
+    "email": "uje@uje.com",
+    "username": "uje",
+    "password": "uje",
+    "role": "user",
+    "department": "Perencanaan Makro Pengendalian dan Evaluasi Pembangunan Daerah",
+    "canManageIKU": false,
+    "canInputAgenda": false,
+    "createdAt": "2026-10-17T19:25:51.432Z"
+  },
+  {
+    "id": "user_1792265174013",
+    "name": "ook",
+    "email": "ook@ook.com",
+    "username": "ook",
+    "password": "ook",
+    "role": "user",
+    "department": "Perencanaan Makro Pengendalian dan Evaluasi Pembangunan Daerah",
+    "canManageIKU": false,
+    "canInputAgenda": false,
+    "createdAt": "2026-10-17T19:26:14.013Z"
+  },
+  {
+    "id": "user_1792265194670",
+    "name": "novri",
+    "email": "novri@novri",
+    "username": "novri",
+    "password": "novri",
+    "role": "user",
+    "department": "Perencanaan Makro Pengendalian dan Evaluasi Pembangunan Daerah",
+    "canManageIKU": false,
+    "canInputAgenda": false,
+    "createdAt": "2026-10-17T19:26:34.670Z"
+  },
+  {
+    "id": "user_1792265216788",
+    "name": "mj",
+    "email": "mj@mj",
+    "username": "mj",
+    "password": "mj",
+    "role": "user",
+    "department": "Perencanaan Makro Pengendalian dan Evaluasi Pembangunan Daerah",
+    "canManageIKU": false,
+    "canInputAgenda": false,
+    "createdAt": "2026-10-17T19:26:56.788Z"
+  }
+]
